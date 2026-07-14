@@ -150,15 +150,18 @@ This repository includes:
 
 ### Evaluation Dashboard
 
-*(Insert Screenshot)*
+<img width="625" height="2048" alt="image" src="https://github.com/user-attachments/assets/65993138-1782-44b6-9a64-f02a1d540a6a" />
+
 
 ### Admin Dashboard
 
-*(Insert Screenshot)*
+<img width="1920" height="1315" alt="image" src="https://github.com/user-attachments/assets/57ab90dd-0406-4a6b-8113-d248a611b950" />
+
 
 ### Evaluation Report
 
-*(Insert Screenshot)*
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/e6588b6a-a0c8-4f45-8769-1677574b5f48" />
+
 
 ---
 
