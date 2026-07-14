@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/evaluation.html",
+      "permanent": false
+    }
+  ]
+}

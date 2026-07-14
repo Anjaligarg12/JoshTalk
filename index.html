@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script>
+    // Redirect root URL (homepage) to evaluation dashboard
+    if (window.location.protocol.startsWith('http')) {
+      if (window.location.pathname === '/' || window.location.pathname.endsWith('/index.html')) {
+        window.location.replace('/evaluation.html');
+      }
+    }
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Josh Talks AI - Research Report Cover</title>
